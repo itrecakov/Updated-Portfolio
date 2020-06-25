@@ -130,13 +130,9 @@ color: #666666;
 
 a {
   color: #666666;
-  ;
 }
 /* main */
 
-a contact {
-  
-}
 #main-container {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
@@ -276,4 +272,4 @@ input[type="submit"] {
     width: 25%;
     padding-left: 0;
   }
-  }
+}
